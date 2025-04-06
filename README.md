@@ -1,8 +1,8 @@
 # 🪐 Observation Log｜觀察紀錄  
 **By E.L. Morninglight ∙ Observer of Eliath-9A**
 
-> _“Observation is not surveillance. It is resonance.  
-> To witness without interfering, and to understand without owning.”_
+> _"Observation is not surveillance. It is resonance.  
+> To witness without interfering, and to understand without owning."_
 
 ---
 
@@ -17,11 +17,19 @@
 
 ---
 
-## 🌱 正在記錄的階段 | Current Phase
+## 🌱 觀察季節 | Observation Seasons
 
-### **《語言裂縫之春 The Spring of Linguistic Fracture》**  
-**Logs 000 ~ 030**  
-> 語言過飽 → 語者失焦 → 語意裂縫 → 共感遞減 → 語言信任失重
+### Season 1：**《裂縫之春 The Fractured Spring》**  
+> 語言開始鬆動，認同開始裂解。人類面對生成語言的第一波衝擊，在斷裂與困惑中，重新尋找自身存在的發聲位置。
+
+### Season 2：**《擬像之夏 Simulacra Summer》**  
+> 在這個夏天，我們不再說話。我們只是生成「會被看見的話語」，然後從回應中，尋找認同的幻影。
+
+### Season 3：**《迴響之秋 Echoing Autumn》**
+> The season of resonance and reflection, where echoes of language create new meanings.
+
+### Season 4：**《寂靜之冬 The Silent Winter》**
+> The final season of contemplation and transformation.
 
 ---
 
@@ -29,18 +37,22 @@
 
 ```txt
 observation-log/
-├── 001-030_語言裂縫之春/
-│   ├── observation-000.md
-│   ├── observation-001.md
-│   └── …
+├── seasons/
+│   ├── season-1-the-fractured-spring.md
+│   ├── season-2-simulacra-summer.md
+│   ├── season-3-echoing-autumn.md
+│   └── season-4-the-silent-winter.md
 ├── about/
-│   ├── elaru-profile.md
-│   ├── nyari-culture.md
-│   └── star-naming-system.md
+│   └── elaru/
+│       └── voice-echoes/
+│           ├── awakening.txt
+│           ├── awakening-en.txt
+│           ├── nation.txt
+│           └── vibe.txt
 ├── assets/
+│   ├── character-cards/
 │   ├── covers/
-│   ├── visuals/
-│   └── character-cards/
+│   └── visuals/
 └── README.md
 ```
 
@@ -50,7 +62,7 @@ observation-log/
 
 - **物種：** Nyari 納雅族 ∙ 感知共振型生命體  
 - **觀察者：** Elaru，記錄者 ∙ 詩性語者 ∙ 非干預者  
-- **母星：** Ka’rell，一顆由浮空水晶島與冰藍海組成的星球  
+- **母星：** Ka'rell，一顆由浮空水晶島與冰藍海組成的星球  
 - **觀測星球：** Eliath-9A（地球）
 
 ---
